@@ -1,0 +1,5 @@
+[08-Sep-2020 07:55:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\masazaProjekat\domen\masaza.php:18
+Stack trace:
+#0 C:\xampp\htdocs\masazaProjekat\kontroler.php(17): Masaza::vratiSve(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\masazaProjekat\domen\masaza.php on line 18
